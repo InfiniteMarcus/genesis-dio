@@ -12,3 +12,9 @@ Considerando a base do projeto desenvolvida durante o Bootcamp, algumas alteraç
 - Adicionado `max-width` e `max-height` para aumentar responsividade em dispositivos móveis 
 - Adicionando botões para iniciar jogo e repetir ordem atual das cores
 - Melhorando experiência de UI sobre botões coloridos do jogo
+
+## Execução
+
+Para testar o projeto, existem duas opções:
+- Baixe o repositório e abra o arquivo `index.html` em um navegador
+- Acesse o GitHub Pages do projeto: https://infinitemarcus.github.io/genesis-dio/
