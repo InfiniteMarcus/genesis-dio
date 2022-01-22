@@ -9,9 +9,9 @@ Este site é uma implementação do jogo [Genius](https://pt.wikipedia.org/wiki/
 ## Alterações
 
 Considerando a base do projeto desenvolvida durante o Bootcamp, algumas alterações foram feitas:
-- Adicionado `max-width` e `max-height` para aumentar responsividade em dispositivos móveis 
-- Adicionando botões para iniciar jogo e repetir ordem atual das cores
-- Melhorando experiência de UI sobre botões coloridos do jogo
+- Adição de `max-width` e `max-height` para aumentar responsividade em dispositivos móveis 
+- Adição de botões para iniciar jogo e repetir ordem atual das cores
+- Melhora de experiência de UI nos botões coloridos do jogo
 
 ## Execução
 
